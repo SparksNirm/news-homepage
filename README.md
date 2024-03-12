@@ -15,8 +15,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,11 +31,10 @@ The simple desktop design to illustrate my confidence in making webpage using Ta
 ![](./design/desktop_design.png)
 
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SparksNirm/news-homepage)
-- Live Site URL: [Add live site URL here](https://sparksnirm.github.io/news-homepage/)
+- Solution URL: [https://github.com/SparksNirm/news-homepage]
+- Live Site URL: [https://sparksnirm.github.io/news-homepage]
 
 ## My process
 
